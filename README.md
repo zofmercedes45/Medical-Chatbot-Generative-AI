@@ -50,7 +50,7 @@ python app.py
 
 Now, open your browser and navigate to:
 ```bash
-open up localhost:
+"http://localhost:8080"
 ```
 
 
